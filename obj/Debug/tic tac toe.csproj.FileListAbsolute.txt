@@ -1,0 +1,9 @@
+C:\Users\ShuKu\source\repos\games_in_console\tic tac toe\bin\Debug\Tests_GIC.exe.config
+C:\Users\ShuKu\source\repos\games_in_console\tic tac toe\bin\Debug\Tests_GIC.exe
+C:\Users\ShuKu\source\repos\games_in_console\tic tac toe\bin\Debug\Tests_GIC.pdb
+C:\Users\ShuKu\source\repos\games_in_console\tic tac toe\obj\Debug\tic tac toe.csproj.AssemblyReference.cache
+C:\Users\ShuKu\source\repos\games_in_console\tic tac toe\obj\Debug\Interop.WMPLib.dll
+C:\Users\ShuKu\source\repos\games_in_console\tic tac toe\obj\Debug\tic tac toe.csproj.ResolveComReference.cache
+C:\Users\ShuKu\source\repos\games_in_console\tic tac toe\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+C:\Users\ShuKu\source\repos\games_in_console\tic tac toe\obj\Debug\Tests_GIC.exe
+C:\Users\ShuKu\source\repos\games_in_console\tic tac toe\obj\Debug\Tests_GIC.pdb

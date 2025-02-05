@@ -1,0 +1,9 @@
+C:\Users\ShuKu\source\repos\game_in_console\Tests_GIC\bin\Debug\Tests_GIC.exe.config
+C:\Users\ShuKu\source\repos\game_in_console\Tests_GIC\bin\Debug\Tests_GIC.exe
+C:\Users\ShuKu\source\repos\game_in_console\Tests_GIC\bin\Debug\Tests_GIC.pdb
+C:\Users\ShuKu\source\repos\game_in_console\Tests_GIC\obj\Debug\GIC_v1.0.csproj.AssemblyReference.cache
+C:\Users\ShuKu\source\repos\game_in_console\Tests_GIC\obj\Debug\GIC_v1.0.csproj.CoreCompileInputs.cache
+C:\Users\ShuKu\source\repos\game_in_console\Tests_GIC\obj\Debug\Tests_GIC.exe
+C:\Users\ShuKu\source\repos\game_in_console\Tests_GIC\obj\Debug\Tests_GIC.pdb
+C:\Users\ShuKu\source\repos\game_in_console\Tests_GIC\obj\Debug\Interop.WMPLib.dll
+C:\Users\ShuKu\source\repos\game_in_console\Tests_GIC\obj\Debug\GIC_v1.0.csproj.ResolveComReference.cache
